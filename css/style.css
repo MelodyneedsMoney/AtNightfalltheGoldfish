@@ -1,6 +1,7 @@
 body {
     background-image: url("../bgtest.png");
     /* overflow-x: hidden; */
+     background-color: black;
     margin: 0px 0px;
     color:rgb(235, 241, 247);
 
