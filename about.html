@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>At Nightfall, the Goldfish</title>
+    <meta
+      name="description"
+      content=""
+    />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/font.css" rel="stylesheet" />
+  </head>
+  <style>
+    body{
+      background-image: url("bg.png");
+    }
+    h1{
+      top:10vh;
+      left:10vw;
+      position: absolute;
+    }
+#text{
+  position: absolute;
+  width:60vw;
+  display: block;
+  top:22vh;
+  left:10vw;
+  line-height: 3.4vh;
+}
+
+.btm::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0vh;
+    left: 0;
+
+    background-color: rgb(216, 223, 232);
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.5s ease-in-out 0s;
+  }
+.btm:hover::before {
+    visibility: visible;
+    transform: scaleX(1);
+  }
+  </style>
+
+  <body>
+
+
+
+    <h1 class="maintext title">At Nightfall, the Goldfish</h1>
+    <div id="text">
+<h2>
+  This is an interactive story about life and metempsychosis.<br>
+  Each chapter in the "map" tells one character's life experience, using the first person.<br>
+  Characters' stories are linked closely to each other. Similar but different.<br>
+  This piece uses many symbols of life and death.
+  To some extent, these stories represent different periods of life. They indicate the whole life of the young boy, from a child to an old man.
+  <br>
+  Readers have full freedom to read in their preferred order to experience and to interpret.<br>
+  <br><br>
+</h2>
+  <h2>
+    <a id="last"href="story.html" >Read the whole story without interaction here if you like.</a>
+    </h2>
+  <br><br>
+  <br><br>
+  <h2>
+    Melody Mou <br>
+    2021.4
+  </h2>
+
+</div>
+
+
+
+    <h4><a class="btm" style="text-decoration: none;" href="Goldfish.html">Back</a></h4>
+
+  </body>
+</html>
