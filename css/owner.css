@@ -1,0 +1,199 @@
+#o1{
+    position: absolute;
+    top: 12.5vh;
+    left: 40vw;
+  }
+  #o2{
+    position: absolute;
+    top: 12.5vh;
+    left: 44vw;
+    z-index: 3;
+  }
+  #o3{
+    position: absolute;
+    top: 16.5vh;
+    left: 39vw;
+  }
+  #o4{
+    position: absolute;
+    top: 20.5vh;
+    left: 40vw;
+  }
+  #o5{
+    position: absolute;
+    top: 24.5vh;
+    left: 42.5vw;
+  }
+  /* move */
+  #o6{
+    position: absolute;
+    top: 28.5vh;
+    left: 47vw;
+  }
+  #o7{
+    position: absolute;
+    top: 32.5vh;
+    left: 42.5vw;
+  }
+  #o8{
+    position: absolute;
+    top: 36.5vh;
+    left: 41.5vw;
+  }
+  #o9{
+    position: absolute;
+    top: 40.5vh;
+    left: 54vw;
+  }
+  #o10{
+    position: absolute;
+    top: 44.5vh;
+    left: 65vw;
+  }
+  #o11{
+    position: absolute;
+    top: 48.5vh;
+    left: 49vw;
+  }
+  #o12{
+    position: absolute;
+    top: 52.5vh;
+    left: 55vw;
+  }
+  #o13{
+    position: absolute;
+    top: 56.5vh;
+    left: 39vw;
+  }
+  #o14{
+    position: absolute;
+    top: 64.5vh;
+    left: 46vw;
+  }
+  #o15{
+    position: absolute;
+    top: 68.5vh;
+    left: 40vw;
+  }
+  #o16{
+    position: absolute;
+    top: 72.5vh;
+    left: 58vw;
+  }
+  #o17{
+    position: absolute;
+    top: 76.5vh;
+    left: 40vw;
+  }
+  #o18{
+    position: absolute;
+    top: 80.5vh;
+    left: 46vw;
+  }
+  #o19{
+    position: absolute;
+    top: 84.5vh;
+    left: 47vw;
+  }
+
+  #backO{
+    display: inline-block;
+    position: absolute;
+    top: 95vh;
+    left: 48vw;
+    text-decoration: none;
+    font-size: 1.1vw;
+  }
+.para{
+    display: block;
+    font-size: 1.2vw;
+    font-weight: 100;
+  }
+
+  #lineO1{
+    position: absolute;
+    left: 36vw;
+    top: 14vh;
+  }
+  #lineO2{
+    position: absolute;
+    left: 36vw;
+    top: 18vh;
+  }
+  #lineO3{
+    position: absolute;
+    left: 36vw;
+    top: 22vh;
+  }
+  #lineO4{
+    position: absolute;
+    left: 36vw;
+    top: 26vh;
+  } #lineO5{
+    position: absolute;
+    left: 36vw;
+    top: 30vh;
+  } #lineO6{
+    position: absolute;
+    left: 36vw;
+    top: 34vh;
+  } #lineO7{
+    position: absolute;
+    left: 36vw;
+    top: 38vh;
+  } #lineO8{
+    position: absolute;
+    left: 36vw;
+    top: 42vh;
+  } #lineO9{
+    position: absolute;
+    left: 36vw;
+    top: 46vh;
+  } #lineO10{
+    position: absolute;
+    left: 36vw;
+    top: 50vh;
+  } #lineO11{
+    position: absolute;
+    left: 36vw;
+    top: 54vh;
+  }
+  #lineO12{
+    position: absolute;
+    left: 36vw;
+    top: 58vh;
+  }
+  #lineO19{
+    position: absolute;
+    left: 36vw;
+    top: 62vh;
+  }
+  #lineO13{
+    position: absolute;
+    left: 36vw;
+    top: 66vh;
+  } #lineO14{
+    position: absolute;
+    left: 36vw;
+    top: 70vh;
+  }
+  #lineO15{
+    position: absolute;
+    left: 36vw;
+    top: 74vh;
+  }
+  #lineO16{
+    position: absolute;
+    left: 36vw;
+    top: 78vh;
+  } #lineO17{
+    position: absolute;
+    left: 36vw;
+    top: 82vh;
+  }
+  #lineO18{
+    position: absolute;
+    left: 36vw;
+    top: 86vh;
+  }
+

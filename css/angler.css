@@ -1,0 +1,161 @@
+#i_an{
+    position: absolute;
+    top: 20.5vh;
+    left: 35.5vw;
+  }
+  #were{
+    position: absolute;
+    top: 20.5vh;
+    left: 36.5vw;
+    z-index: 3;
+  }
+  #disturbed{
+    position: absolute;
+    top: 24.5vh;
+    left: 48.5vw;
+  }
+  #you{
+    position: absolute;
+    top: 28.5vh;
+    left: 44vw;
+  }
+  #looked{
+    position: absolute;
+    top: 32.5vh;
+    left: 32vw;
+  }
+  #we{
+    position: absolute;
+    top: 36.5vh;
+    left: 36vw;
+  }
+  #hesitated{
+    position: absolute;
+    top: 40.5vh;
+    left: 32vw;
+  }
+  #she{
+    position: absolute;
+    top: 44.5vh;
+    left: 35vw;
+  }
+  #murmured{
+    position: absolute;
+    top: 48.5vh;
+    left: 45vw;
+  }
+  #theboy{
+    position: absolute;
+    top: 52.5vh;
+    left: 42.5vw;
+  }
+  #said{
+    position: absolute;
+    top: 56.5vh;
+    left: 40vw;
+  }
+  #forget{
+    position: absolute;
+    top: 60.5vh;
+    left: 61vw;
+  }
+  #thepast{
+    position: absolute;
+    top: 64.5vh;
+    left: 47vw;
+  }
+  #feel{
+    position: absolute;
+    top: 68.5vh;
+    left: 42vw;
+  }
+  #sun{
+    position: absolute;
+    top: 72.5vh;
+    left: 34vw;
+  }
+  #set{
+    position: absolute;
+    top: 76.5vh;
+    left: 58vw;
+  }
+  #backA{
+    display: inline-block;
+    position: absolute;
+    top: 92vh;
+    left: 48vw;
+    text-decoration: none;
+    font-size: 1.1vw;
+  }
+.para{
+    display: block;
+    font-size: 1.2vw;
+    font-weight: 100;
+  }
+
+  #lineA1{
+    position: absolute;
+    left: 31vw;
+    top: 22vh;
+  }
+  #lineA2{
+    position: absolute;
+    left: 31vw;
+    top: 26vh;
+  }
+  #lineA3{
+    position: absolute;
+    left: 31vw;
+    top: 30vh;
+  }
+  #lineA4{
+    position: absolute;
+    left: 31vw;
+    top: 34vh;
+  } #lineA5{
+    position: absolute;
+    left: 31vw;
+    top: 38vh;
+  } #lineA6{
+    position: absolute;
+    left: 31vw;
+    top: 42vh;
+  } #lineA7{
+    position: absolute;
+    left: 31vw;
+    top: 46vh;
+  } #lineA8{
+    position: absolute;
+    left: 31vw;
+    top: 50vh;
+  } #lineA9{
+    position: absolute;
+    left: 31vw;
+    top: 54vh;
+  } #lineA10{
+    position: absolute;
+    left: 31vw;
+    top: 58vh;
+  } #lineA11{
+    position: absolute;
+    left: 31vw;
+    top: 62vh;
+  }
+  #lineA12{
+    position: absolute;
+    left: 31vw;
+    top: 66vh;
+  } #lineA13{
+    position: absolute;
+    left: 31vw;
+    top: 70vh;
+  } #lineA14{
+    position: absolute;
+    left: 31vw;
+    top: 74vh;
+  }
+  #lineA15{
+    position: absolute;
+    left: 31vw;
+    top: 78vh;
+  }

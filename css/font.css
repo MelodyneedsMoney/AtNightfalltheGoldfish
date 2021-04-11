@@ -1,0 +1,110 @@
+@font-face {
+    font-family: Garamond regular;
+    src: url("EBGaramond-Regular.woff");
+    font-family: Garamond italic;
+    src: url("EBGaramond-Italic.woff");
+  }
+
+h1{
+    font-size: 2.5vw;
+    font-family: Garamond regular;
+    color:aliceblue;
+    /* cursor: none; */
+  }
+
+  h2{
+      font-weight: 100;
+  }
+
+  h4{
+    font-size: 1.3vw;
+    font-weight: 100;
+    cursor: crosshair;
+}
+a{
+    color:aliceblue;
+}
+a:hover{
+      /* text-decoration:underline; */
+      color:aliceblue;
+}
+
+#s{
+  position: absolute;
+display: block;
+overflow: auto;
+  top:12vh;
+  left:15vw;
+}
+
+.ch{
+  display: block;
+  font-size: 1.5vw;
+
+}
+.c{
+  display: block;
+  width: 50vw;
+}
+
+#author{
+  opacity: 0;
+  animation-name: fadeIn;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-fill-mode: forwards;
+
+  cursor:default;
+  font-family: Garamond italic;
+  position: absolute;
+  z-index: 3;
+  bottom: 15vh;
+ right: 46vw;
+ font-weight: lighter;
+ letter-spacing: 0.1vw;
+}
+
+.btm{
+position: absolute;
+   z-index: 3;
+   top: 5vh;
+  right: 5vw;
+}
+
+
+p{
+  font-size: 1.2vw;
+  line-height: 1.7vw;
+}
+
+#last{
+
+        position: absolute;
+        display: inline-block;
+ }
+
+  #g{
+    position: absolute;
+    top: 43vh;
+    left: 45.3vw;
+  }
+  #an{
+    position: absolute;
+    top: 43vh;
+    left: 12vw;
+  }
+  #f{
+    position: absolute;
+    top: 43vh;
+    left: 78vw;
+  }
+  #y{
+    position: absolute;
+    top: 1.0vh;
+    left: 44.5vw;
+  }
+  #n{
+    position: absolute;
+    top: 86.5vh;
+    left: 45.2vw;
+  }

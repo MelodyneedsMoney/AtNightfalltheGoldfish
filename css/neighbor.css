@@ -1,0 +1,191 @@
+
+#your{
+    position: absolute;
+    top: 11vh;
+    left: 44.5vw;
+  }
+  #rose{
+    position: absolute;
+    top: 15vh;
+    left: 68vw;
+  }
+  #you_n{
+    position: absolute;
+    top: 19vh;
+    left: 37vw;
+  }
+  #held{
+    position: absolute;
+    top: 23vh;
+    left: 42.5vw;
+  }
+  #my_n{
+    position: absolute;
+    top: 27vh;
+    left: 45vw;
+  }
+  #hand{
+    position: absolute;
+    top: 33vh;
+    left: 45.5vw;
+  }
+  #i2_n{
+    position: absolute;
+    top: 39.5vh;
+    left: 38vw;
+  }
+
+  #knew{
+    position: absolute;
+    top: 43.5vh;
+    left: 45vw;
+  }
+  #i3_n{
+    position: absolute;
+    top: 47.5vh;
+    left: 35vw;
+  }
+  #droke{
+    position: absolute;
+    top: 51.5vh;
+    left: 40vw;
+  }
+  #i4_n{
+    position: absolute;
+    top: 55.5vh;
+    left: 35vw;
+  }
+  #loved{
+    position: absolute;
+    top: 59.5vh;
+    left: 40vw;
+  }
+  #nobody{
+    position: absolute;
+    top: 63.5vh;
+    left: 35vw;
+  }  #buried{
+    position: absolute;
+    top: 67.5vh;
+    left: 57.5vw;
+  }  #my2_n{
+    position: absolute;
+    top: 71.5vh;
+    left: 48vw;
+  }  #lonesome{
+    position: absolute;
+    top: 75.5vh;
+    left: 54vw;
+  }
+  #past_n{
+    position: absolute;
+    top: 79.5vh;
+    left: 58.5vw;
+  }
+
+  #backN{
+    display: inline-block;
+    position: absolute;
+    top: 92vh;
+    left: 48vw;
+    text-decoration: none;
+    font-size: 1.1vw;
+  }
+
+
+  a{
+    color:rgb(224, 230, 237);
+    text-decoration: underline;
+}
+
+h4{
+    font-size: 1.3vw;
+    font-weight: 100;
+
+}
+  .para{
+    display: block;
+    font-size: 1.2vw;
+    font-weight: 100;
+  }
+
+  #lineN1{
+    position: absolute;
+    left: 35vw;
+    top: 13vh;
+  }
+  #lineN2{
+    position: absolute;
+    left: 35vw;
+    top: 17vh;
+  }
+  #lineN3{
+    position: absolute;
+    left: 35vw;
+    top: 21vh;
+  }
+  #lineN4{
+    position: absolute;
+    left: 35vw;
+    top: 25vh;
+  } #lineN5{
+    position: absolute;
+    left: 35vw;
+    top: 29vh;
+  } #lineN6{
+    position: absolute;
+    left: 35vw;
+    top: 33vh;
+  }
+  #lineN18{
+    position: absolute;
+    left: 35vw;
+    top: 37vh;
+  }
+  #lineN7{
+    position: absolute;
+    left: 35vw;
+    top: 41vh;
+  } #lineN8{
+    position: absolute;
+    left: 35vw;
+    top: 45vh;
+  } #lineN9{
+    position: absolute;
+    left: 35vw;
+    top: 49vh;
+  } #lineN10{
+    position: absolute;
+    left: 35vw;
+    top: 53vh;
+  } #lineN11{
+    position: absolute;
+    left: 35vw;
+    top: 57vh;
+  }
+ #lineN12{
+    position: absolute;
+    left: 35vw;
+    top: 61vh;
+  } #lineN13{
+    position: absolute;
+    left: 35vw;
+    top: 65vh;
+  } #lineN14{
+    position: absolute;
+    left: 35vw;
+    top: 69vh;
+  } #lineN15{
+    position: absolute;
+    left: 35vw;
+    top: 73vh;
+  }
+#lineN16{
+    position: absolute;
+    left: 35vw;
+    top: 77vh;
+  } #lineN17{
+    position: absolute;
+    left: 35vw;
+    top: 81vh;
+  }

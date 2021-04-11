@@ -1,0 +1,163 @@
+
+#confess{
+    position: absolute;
+    top: 20.5vh;
+    left: 49vw;
+  }
+  #to{
+    position: absolute;
+    top: 24.5vh;
+    left: 58vw;
+  }
+  #me{
+    position: absolute;
+    top: 28.5vh;
+    left: 50vw;
+  }
+  #i{
+    position: absolute;
+    top: 32.5vh;
+    left: 45vw;
+  }
+  #breathe{
+    position: absolute;
+    top: 36.5vh;
+    left: 47.5vw;
+    text-align: center;
+  }
+  #i2{
+    position: absolute;
+    top: 40.7vh;
+    left: 46.5vw;
+  }
+  #die{
+    position: absolute;
+    top: 40.7vh;
+    left: 53.8vw;
+    z-index: 3;
+  }
+  #die2{
+    position: absolute;
+    top: 44.5vh;
+    left: 43vw;
+  }
+
+  #blood{
+    position: absolute;
+    top: 48.5vh;
+    left: 44vw;
+  }
+  #in{
+    position: absolute;
+    top: 52.5vh;
+    left: 43vw;
+  }
+  #water{
+    position: absolute;
+    top: 55.5vh;
+    left: 45vw;
+  }
+  #with{
+    position: absolute;
+    top: 60.5vh;
+    left: 43vw;
+  }
+  #everything{
+    position: absolute;
+    top: 64.5vh;
+    left: 55vw;
+  }
+  #and{
+    position: absolute;
+    top: 68.5vh;
+    left: 43vw;
+  }
+  #nothing{
+    position: absolute;
+    top: 72.5vh;
+    left: 48vw;
+  }
+
+  #back1{
+    display: inline-block;
+    position: absolute;
+    top: 92vh;
+    left: 48vw;
+    text-decoration: none;
+    font-size: 1.1vw;
+  }
+
+
+  a{
+    color:rgb(224, 230, 237);
+    text-decoration: underline;
+}
+h4{
+    font-size: 1.3vw;
+    font-weight: 100;
+
+}
+  .para{
+    display: block;
+    font-size: 1.2vw;
+    font-weight: 100;
+  }
+
+  #lineG1{
+    position: absolute;
+    left: 43vw;
+    top: 22vh;
+  }
+  #lineG2{
+    position: absolute;
+    left: 43vw;
+    top: 26vh;
+  }
+  #lineG3{
+    position: absolute;
+    left: 43vw;
+    top: 30vh;
+  }
+  #lineG4{
+    position: absolute;
+    left: 43vw;
+    top: 34vh;
+  } #lineG5{
+    position: absolute;
+    left: 43vw;
+    top: 38vh;
+  } #lineG6{
+    position: absolute;
+    left: 43vw;
+    top: 42vh;
+  } #lineG7{
+    position: absolute;
+    left: 43vw;
+    top: 46vh;
+  } #lineG8{
+    position: absolute;
+    left: 43vw;
+    top: 50vh;
+  } #lineG9{
+    position: absolute;
+    left: 43vw;
+    top: 54vh;
+  } #lineG10{
+    position: absolute;
+    left: 43vw;
+    top: 58vh;
+  } #lineG11{
+    position: absolute;
+    left: 43vw;
+    top: 62vh;
+  }
+  #lineG12{
+    position: absolute;
+    left: 43vw;
+    top: 66vh;
+  }
+  #lineG13{
+    position: absolute;
+    left: 43vw;
+    top: 70vh;
+  }

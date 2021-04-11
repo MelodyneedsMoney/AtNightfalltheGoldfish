@@ -1,0 +1,422 @@
+#goldfishWords,#anglerWords,#neighborWords,#ownerWords,#youngboyWords{
+    font-family: Garamond italic;
+}
+h5{
+    font-size: 1.3vw;
+    font-weight: lighter;
+}
+
+/* goldfish */
+#Cir_confessed{
+    position: absolute;
+    top: 48vh;
+    left: 51vw;
+  }
+  #Cir_to{
+    position: absolute;
+    top: 52.7vh;
+    left: 56.5vw;
+  }
+  #Cir_me{
+    position: absolute;
+    top: 56vh;
+    left: 59vw;
+  }
+  #Cir_i{
+    position: absolute;
+    top: 31vh;
+    left: 56vw;
+  }
+  #Cir_breathe2{
+    position: absolute;
+    top: 26vh;
+    left: 57vw;
+  }
+  #Cir_with{
+    position: absolute;
+    top: 35vh;
+    left: 42.5vw;
+  }
+  #Cir_and{
+    position: absolute;
+    top: 26vh;
+    left: 37vw;
+  }
+  #Cir_everything{
+    position: absolute;
+    top: 31vh;
+    left: 38vw;
+  }
+  #Cir_die{
+    position: absolute;
+    top: 35vh;
+    left: 52vw;
+  }
+  #Cir_die2{
+    position: absolute;
+    top: 48vh;
+    left: 43.5vw;
+  }
+  #Cir_blood{
+    position: absolute;
+    top: 53vh;
+    left: 42vw;
+  }
+  #Cir_in{
+    position: absolute;
+    top: 58vh;
+    left: 42vw;
+  }
+  #Cir_water{
+    position: absolute;
+    top: 63vh;
+    left: 37vw;
+  }
+  #Cir_nothing{
+    position: absolute;
+    top: 21vh;
+    left: 33vw;
+  }
+
+
+/* angler */
+  #Cir_was{
+    position: absolute;
+    top: 37vh;
+    left: 15vw;
+  }
+  #Cir_disturbed{
+    position: absolute;
+    top: 33vh;
+    left: 15vw;
+  }
+  #Cir_you{
+    position: absolute;
+    top: 29vh;
+    left: 16vw;
+  }
+  #Cir_looked{
+    position: absolute;
+    top: 25vh;
+    left: 17vw;
+  }
+  #Cir_we{
+    position: absolute;
+    top: 21vh;
+    left: 19vw;
+  }
+  #Cir_hesitated{
+    position: absolute;
+    top: 17vh;
+    left: 20vw;
+  }
+  #Cir_she{
+    position: absolute;
+    top: 14vh;
+    left: 23vw;
+  }
+  #Cir_murmured{
+    position: absolute;
+    top: 11vh;
+    left: 24vw;
+  }
+  #Cir_theboy{
+    position: absolute;
+    top: 8vh;
+    left: 26vw;
+  }
+  #Cir_said{
+    position: absolute;
+    top: 8vh;
+    left: 31vw;
+  }
+  #Cir_forget{
+    position: absolute;
+    top: 5.4vh;
+    left: 30vw;
+  }
+  #Cir_thepast{
+    position: absolute;
+    top: 5.4vh;
+    left: 34vw;
+  }
+  #Cir_feel{
+    position: absolute;
+    top: 2.8vh;
+    left: 35.5vw;
+  }
+  #Cir_thesun{
+    position: absolute;
+    top: 0.2vh;
+    left:37vw;
+  }
+
+
+
+  /* neighbor */
+  #Cir_your{
+    position: absolute;
+    top: 85.3vh;
+    left: 52.5vw;
+  }
+  #Cir_rose{
+    position: absolute;
+    top: 85vh;
+    left: 42vw;
+  }
+  #Cir_you_n{
+    position: absolute;
+    top: 83.5vh;
+    left: 38.5vw;
+  }
+  #Cir_held{
+    position: absolute;
+    top: 82vh;
+    left: 35vw;
+  }
+  #Cir_my_n{
+    position: absolute;
+    top: 81vh;
+    left: 32.5vw;
+  }
+  #Cir_hand{
+    position: absolute;
+    top: 79vh;
+    left: 29vw;
+  }
+  #Cir_i2_n{
+    position: absolute;
+    top: 77vh;
+    left: 27.5vw;
+  }
+  #Cir_knew{
+    position: absolute;
+    top: 74.5vh;
+    left: 24vw;
+  }
+  #Cir_i3_n{
+    position: absolute;
+    top: 73vh;
+    left:22vw;
+  }
+  #Cir_droke{
+    position: absolute;
+    top: 70vh;
+    left: 19vw;
+  }
+  #Cir_i4_n{
+    position: absolute;
+    top: 68vh;
+    left: 18vw;
+  }
+  #Cir_loved{
+    position: absolute;
+    top: 65vh;
+    left: 17vw;
+  }
+  #Cir_nobody{
+    position: absolute;
+    top: 61vh;
+    left: 16vw;
+  }
+  #Cir_buried{
+    position: absolute;
+    top: 57vh;
+    left: 15vw;
+  }
+  #Cir_my2_n{
+    position: absolute;
+    top: 53vh;
+    left: 14.5vw;
+  }
+  #Cir_lonesome{
+    position: absolute;
+    top: 49vh;
+    left: 14vw;
+  }
+  #Cir_past_n{
+    position: absolute;
+    top: 45vh;
+    left: 13vw;
+  }
+
+
+   /* owner*/
+   #Cir_o1{
+    position: absolute;
+    top: 45vh;
+    left: 83.5vw;
+  }
+  #Cir_o2{
+    position: absolute;
+    top: 48vh;
+    left: 82.5vw;
+  }
+  #Cir_o3{
+    position: absolute;
+    top: 52vh;
+    left: 81.5vw;
+  }
+  #Cir_o4{
+    position: absolute;
+    top: 56vh;
+    left: 82vw;
+  }
+  #Cir_o5{
+    position: absolute;
+    top: 59vh;
+    left: 81vw;
+  }
+  #Cir_o6{
+    position: absolute;
+    top: 62vh;
+    left: 80vw;
+  }
+  #Cir_o7{
+    position: absolute;
+    top: 62vh;
+    left: 81vw;
+  }
+  #Cir_o8{
+    position: absolute;
+    top: 65vh;
+    left: 79.5vw;
+  }
+  #Cir_o9{
+    position: absolute;
+    top: 68vh;
+    left:77.5vw;
+  }
+  #Cir_o10{
+    position: absolute;
+    top: 71vh;
+    left: 76vw;
+  }
+  #Cir_o11{
+    position: absolute;
+    top: 74vh;
+    left: 74vw;
+  }
+  #Cir_o12{
+    position: absolute;
+    top: 76vh;
+    left: 73vw;
+  }
+  #Cir_o13{
+    position: absolute;
+    top: 78vh;
+    left: 71.5vw;
+  }
+  #Cir_o14{
+    position: absolute;
+    top: 80vh;
+    left: 70.5vw;
+  }
+  #Cir_o15{
+    position: absolute;
+    top: 81vh;
+    left: 64.6vw;
+  }
+  #Cir_o16{
+    position: absolute;
+    top: 82.5vh;
+    left: 59.5vw;
+  }
+  #Cir_o17{
+    position: absolute;
+    top: 84vh;
+    left: 55.8vw;
+  }
+  #Cir_o18{
+    position: absolute;
+    top: 85vh;
+    left: 53.5vw;
+  }
+
+
+  /* youngboy*/
+  #Cir_y1{
+    position: absolute;
+    top: 0.2vh;
+    left: 54vw;
+  }
+  #Cir_y2{
+    position: absolute;
+    top: 1vh;
+    left: 58vw;
+  }
+  #Cir_y3{
+    position: absolute;
+    top: 1.5vh;
+    left: 60vw;
+  }
+  #Cir_y4{
+    position: absolute;
+    top: 2.5vh;
+    left: 64.5vw;
+  }
+  #Cir_y5{
+    position: absolute;
+    top: 4vh;
+    left:66vw;
+  }
+  #Cir_y6{
+    position: absolute;
+    top: 6vh;
+    left:69.5vw;
+  }
+  #Cir_y7{
+    position: absolute;
+    top: 8.5vh;
+    left: 71vw;
+  }
+  #Cir_y8{
+    position: absolute;
+    top: 10.5vh;
+    left: 75vw;
+  }
+  #Cir_y9{
+    position: absolute;
+    top: 13vh;
+    left:77vw;
+  }
+  #Cir_y10{
+    position: absolute;
+    top: 16vh;
+    left: 78vw;
+  }
+  #Cir_y11{
+    position: absolute;
+    top: 19vh;
+    left: 79vw;
+  }
+  #Cir_y12{
+    position: absolute;
+    top: 22vh;
+    left: 80vw;
+  }
+  #Cir_y13{
+    position: absolute;
+    top: 25vh;
+    left: 82vw;
+  }
+  #Cir_y14{
+    position: absolute;
+    top: 28vh;
+    left: 83vw;
+  }
+  #Cir_y15{
+    position: absolute;
+    top: 31vh;
+    left: 82.5vw;
+  }
+  #Cir_y16{
+    position: absolute;
+    top: 34vh;
+    left: 83vw;
+  }
+  #Cir_y17{
+    position: absolute;
+    top: 37vh;
+    left: 82.5vw;
+  }

@@ -1,0 +1,250 @@
+
+#y1{
+  position: absolute;
+  top: 20.5vh;
+  left: 38vw;
+}
+#y2{
+  position: absolute;
+  top: 20.5vh;
+  left: 52vw;
+  z-index: 3;
+}
+#y3{
+  position: absolute;
+  top: 24vh;
+  left:59.5vw;
+}
+#y4{
+  position: absolute;
+  top: 28.5vh;
+  left: 44vw;
+}
+#y5{
+  position: absolute;
+  top: 28.5vh;
+  left: 50vw;
+  z-index: 3;
+}
+#y6{
+  position: absolute;
+  top: 32.5vh;
+  left: 49vw;
+}
+/* find */
+#y7{
+  position: absolute;
+  top: 36.5vh;
+  left: 52.5vw;
+}
+#y8{
+  position: absolute;
+  top: 44.5vh;
+  left: 47vw;
+}
+#y9{
+  position: absolute;
+  top: 48.5vh;
+  left: 58vw;
+}
+#y10{
+  position: absolute;
+  top: 52.5vh;
+  left: 41.5vw;
+}
+#y11{
+  position: absolute;
+  top: 52.5vh;
+  left: 55.5vw;
+  z-index: 3;
+}
+#y12{
+  position: absolute;
+  top: 56.5vh;
+  left: 38vw;
+}
+#y13{
+  position: absolute;
+  top: 60.5vh;
+  left: 44.5vw;
+}
+#y14{
+  position: absolute;
+  top: 65vh;
+  left: 52.5vw;
+}
+#y15{
+  position: absolute;
+  top: 72.5vh;
+  left: 56vw;
+}
+
+
+
+#backB{
+  display: inline-block;
+  position: absolute;
+  top: 92vh;
+  left: 48vw;
+  text-decoration: none;
+  font-size: 1.1vw;
+}
+
+
+a{
+  color:rgb(224, 230, 237);
+  text-decoration: underline;
+}
+h4{
+  font-size: 1.3vw;
+  font-weight: 100;
+
+}
+.para{
+  display: block;
+  font-size: 1.2vw;
+  font-weight: 100;
+}
+
+#lineB1{
+  position: absolute;
+  left: 35vw;
+  top: 22vh;
+}
+#lineB2{
+  position: absolute;
+  left: 35vw;
+  top: 26vh;
+}
+#lineB3{
+  position: absolute;
+  left: 35vw;
+  top: 30vh;
+}
+#lineB4{
+  position: absolute;
+  left: 35vw;
+  top: 34vh;
+} #lineB5{
+  position: absolute;
+  left: 35vw;
+  top: 38vh;
+}
+#lineB6{
+  position: absolute;
+  left: 35vw;
+  top: 42vh;
+}
+#lineB14{
+  position: absolute;
+  left: 35vw;
+  top: 46vh;
+}
+#lineB7{
+  position: absolute;
+  left: 35vw;
+  top: 50vh;
+} #lineB8{
+  position: absolute;
+  left: 35vw;
+  top: 54vh;
+} #lineB9{
+  position: absolute;
+  left: 35vw;
+  top: 58vh;
+} #lineB10{
+  position: absolute;
+  left: 35vw;
+  top: 62vh;
+} #lineB11{
+  position: absolute;
+  left: 35vw;
+  top: 66vh;
+}
+#lineB12{
+  position: absolute;
+  left: 35vw;
+  top: 70vh;
+}
+#lineB13{
+  position: absolute;
+  left: 35vw;
+  top: 74vh;
+}
+
+
+/* test speed
+para{
+    display: block;
+    font-size: 1.2vw;
+    font-weight: 100;
+  }
+
+  #lineB1{
+    position: absolute;
+    left: 37vw;
+    top: 22vh;
+  }
+  #lineB2{
+    position: absolute;
+    left: 37vw;
+    top: 26vh;
+  }
+  #lineB3{
+    position: absolute;
+    left: 37vw;
+    top: 30vh;
+  }
+  #lineB4{
+    position: absolute;
+    left: 37vw;
+    top: 34vh;
+  } #lineB5{
+    position: absolute;
+    left: 37vw;
+    top: 38vh;
+  } #lineB6{
+    position: absolute;
+    left: 37vw;
+    top: 42vh;
+  } #lineB7{
+    position: absolute;
+    left: 37vw;
+    top: 46vh;
+  } #lineB8{
+    position: absolute;
+    left: 37vw;
+    top: 50vh;
+  } #lineB9{
+    position: absolute;
+    left: 37vw;
+    top: 54vh;
+  } #lineB10{
+    position: absolute;
+    left: 37vw;
+    top: 58vh;
+  } #lineB11{
+    position: absolute;
+    left: 37vw;
+    top: 62vh;
+  }
+  #lineB12{
+    position: absolute;
+    left: 37vw;
+    top: 66vh;
+  }
+  #lineB13{
+    position: absolute;
+    left: 37vw;
+    top: 70vh;
+  }
+
+  #back{
+
+    display: inline-block;
+    position: absolute;
+    top: 88vh;
+    left: 48vw;
+    text-decoration: none;
+    font-size: 1.1vw;
+  } */
