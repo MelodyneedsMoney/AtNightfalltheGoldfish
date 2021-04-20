@@ -65,7 +65,6 @@ font-weight: lighter;
     animation-duration: 4s;
     animation-delay: 1s;
     animation-fill-mode: forwards;
-
     position: absolute;
     top: 38vh;
     left: 31.3vw;
@@ -82,10 +81,6 @@ font-weight: lighter;
       text-align: left;
   }
 
-  .subtitle {
-    position: absolute;
-    cursor: crosshair;
-  }
 
 
 
