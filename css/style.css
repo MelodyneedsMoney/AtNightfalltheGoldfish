@@ -1,7 +1,6 @@
 body {
     background-image: url("../bgtest.png");
-    /* overflow-x: hidden; */
-     background-color: black;
+    background-color: black;
     margin: 0px 0px;
     color:rgb(235, 241, 247);
 
@@ -34,7 +33,6 @@ body {
     margin: 0;
     padding: 0;
     border: none;
-    /* cursor: none; */
   }
 
   @keyframes fadeIn {
@@ -56,8 +54,6 @@ font-size: 1.4vw;
 color:rgb(189, 198, 206);
 display: inline-block;
 position: absolute;
-/* bottom:0.3vh;
-left:47.2vw; */
 top:3.3vh;
 right:3vw;
 font-weight: lighter;
@@ -78,15 +74,12 @@ font-weight: lighter;
   }
 
   .title-swap {
-    /* font-size: 1.3vw; */
     line-height: 4.5vh;
-    /* font-weight: 5; */
       display: block;
       position: absolute;
       top: 36vh;
       left: 28vw;
       text-align: left;
-      /* cursor: none; */
   }
 
   .subtitle {
