@@ -1,3 +1,10 @@
+/**
+ * jQuery Ripples plugin v0.6.3 / https://github.com/sirxemic/jquery.ripples
+ * MIT License
+ * @author sirxemic / https://sirxemic.com/
+ */
+
+
 var gl;
 var $window = $(window); // There is only one window, so why not cache the jQuery-wrapped window?
 
