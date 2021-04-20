@@ -72,14 +72,7 @@ font-weight: lighter;
     cursor: crosshair;
   }
 
-  .title-swap {
-    line-height: 4.5vh;
-      display: block;
-      position: absolute;
-      top: 36vh;
-      left: 28vw;
-      text-align: left;
-  }
+
 
 
 
